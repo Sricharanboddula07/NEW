@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import LoginPage from "./Login";
+import LoginPage from "./LoginPage";
 import RegisterPage from "./Register";
 import "./Styles.css";
 
